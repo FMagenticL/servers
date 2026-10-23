@@ -161,6 +161,10 @@ This project is licensed under the Apache License, Version 2.0 for new contribut
 
 - [GitHub Discussions](https://github.com/orgs/modelcontextprotocol/discussions)
 
+### 🌎 Community Servers
+
+- **[FMagenticL](https://github.com/FMagenticL/fmagenticl-registry)** - A global deterministic failure depository for AI agents. Instantly remediates known runtime errors with cryptographically signed RFC 6902 patches to mitigate The Déjà Vu Tax.
+
 ## ⭐ Support
 
 If you find MCP servers useful, please consider starring the repository and contributing new servers or improvements!
